@@ -3,7 +3,6 @@ index.h# bootcampdb1
  ola mundo 
  
  ###h3
- 
  #####h4
  
  -primeiro* ítem da lista
@@ -18,5 +17,5 @@ const a = 10
 
 
 
-![teste de imagem] imagem](https://revistacarro.com.br/wp-content/uploads/2020/01/W-Fusca.jpg)
+
 
